@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class dikUcgenHipotenusCevreAlan {
+public class test {
     public static void main(String[] args) {
         /*
         * Dik Üçgende Hipotenüs Bulan Program Java ile kullanıcıdan dik kenarlarının uzunluğunu alan ve
