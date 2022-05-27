@@ -1,6 +1,6 @@
 mport java.util.Scanner;
 
-public class SinifGecme {
+public class test {
     public static void main(String[] args) {
         /** Sınıfı Geçme Durumu
          *  Dersler : Matematik,Fizik,Türkçe,Kimya,Müzik
