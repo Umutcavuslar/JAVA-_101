@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class KullaniciGirisi {
+public class test {
     public static void main(String[] args) {
         /* Kullanıcı Girişi
         *  Eğer şifre yanlış ise kullanıcıya şifresini sıfırlayıp sıfırlamayacağını sorun,
