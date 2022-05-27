@@ -1,7 +1,7 @@
 package Giris;
 import java.util.Scanner;
 
-public class Calculator {
+public class test {
     public static void main(String[] args) {
         int n1, n2, select;
 
