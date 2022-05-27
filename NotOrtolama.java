@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class notOrtalama {
+public class test {
     public static void main(String[] args) {
         /*
         Not Ortalaması Hesaplayan Program Java ile Matematik, Fizik, Kimya, Türkçe, Tarih, Müzik derslerinin sınav puanlarını kullanıcıdan alan
