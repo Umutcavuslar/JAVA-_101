@@ -1,5 +1,5 @@
-import java.util.Scanner;
-public class daireninAlanınıveCevresiniHesaplayanProgram {
+    import java.util.Scanner;
+    public class test {
     public static void main(String[] args) {
     /* Dairenin Alanını ve Çevresini Hesaplayan Program
     Alan Formülü : π * r * r;
@@ -10,13 +10,19 @@ public class daireninAlanınıveCevresiniHesaplayanProgram {
         double pi=3.14;
 
         Scanner input = new Scanner(System.in);
+        System.out.print("Bir deger girin:");
         r= input.nextInt();
 
-        double alan = pi*r*r;
-        System.out.println("dairenin alanı : "+ alan);
+        System.out.println("yari cap: "+r);
 
-          double cevre = 2*pi*r;
+
+        double alan = pi*r*r;
+        System.out.println("dairenin alani : "+ alan);
+
+        double cevre = 2*pi*r;
         System.out.println("dairenin cevresi : "+ cevre);
 
     }
 }
+
+
