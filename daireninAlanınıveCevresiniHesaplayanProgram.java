@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class dairecevrealan {
+public class daireninAlanınıveCevresiniHesaplayanProgram {
     public static void main(String[] args) {
     /* Dairenin Alanını ve Çevresini Hesaplayan Program
     Alan Formülü : π * r * r;
